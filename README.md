@@ -1,2 +1,1 @@
-# tfc
-Terraform Cloud
+# Terraform Cloud Management
